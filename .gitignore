@@ -1,0 +1,14 @@
+
+
+
+# Environments
+.venv
+venv/
+
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+*.pkl        # Ignore HDF5 model files
